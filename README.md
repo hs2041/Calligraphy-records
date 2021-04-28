@@ -1,5 +1,5 @@
 # Calligraphy-records
-This python script shows the different kinds of Calligraphy styles that were used across the globe in an interactive way.
+Simple GUI that portrays the different kinds of Calligraphy styles that were are across the globe in an interactive way.
 
 # Sample image
 ![sample](https://github.com/hs2041/Calligraphy-records/blob/master/call.png)
